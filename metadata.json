@@ -1,0 +1,8 @@
+{
+  "name": "FinCert AI",
+  "description": "FinCert AI adalah platform SaaS berbasis Artificial Intelligence oleh FINORA GROUP yang dirancang untuk mengotomatisasi pembuatan, pengelolaan, verifikasi, dan distribusi sertifikat digital secara cepat, aman, dan profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
